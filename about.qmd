@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+Hey,
+
+My name is Nithura and I'm an engineering student at the University of Toronto, based in Toronto, Ontario, Canada.
+
+To view more about the project and any of my other ones, feel free to visit my github account at link below, and feel free to contact be my email to answer any other questions. 
+
+Stay analytical,
+Nithura :)
+
+github: https://github.com/engineer-nithura \n
+email: nithura.thevarajah@gmail.com
+
+A project from David Kane's Data Science Bootcamp

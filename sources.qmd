@@ -1,0 +1,12 @@
+---
+title: "Sources"
+format: html
+---
+
+Chatgpt: 
+
+Chatgpt was used for understanding characteristics in the dataset of different variables, and the types of significant patterns between the observations and their potential impact in the field of biophysics.
+
+Google Dataset Search:
+
+The dataset was sourced from Google Dataset search to understand how simulations were being applied in understanding proteins and, in a broader sense, how the formation of mutations affect our understanding of their capabilities.

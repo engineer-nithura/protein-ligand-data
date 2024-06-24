@@ -1,0 +1,30 @@
+---
+title: "Protein Ligand Data Analysis"
+execute: 
+  echo: false
+  message: false
+---
+
+This website discusses the impact of mutations in protein-ligand formations,
+specifically their affinities. A ligand is a protein that binds to a target protein, and their interaction can be measured and described in terms of the forces involved in their bonding, concentration, and energy used up!
+
+This science of these interaction is crucial for drug and material sciences. The study used to conduct this analysis were measured across different scales, such as trajectory in space, and time, and used geometric features in molecules through simulations to determine how drug-resistant mutations form, building a foundation for understanding how molecular dynamics simulations can be used to understand randomness in biophysics.
+
+The graph below showcases the relationship between the impact of various genes and their fold change, which helps understand the resilience of protein-ligand structures under various conditions:
+
+```{r}
+#|echo: false
+#|message: false
+#|output: false
+library(tidyverse)
+library(readr)
+plot <- read_csv("supp_tableS1_upd.csv") 
+```
+
+```{r}
+#|echo: false
+#|message: false
+ggplot(data= plot, mapping = aes(x= `Impact_of_Mutation_
+on_Binding_Affinity`, y= Fold_Change)) + geom_point()
+```
+

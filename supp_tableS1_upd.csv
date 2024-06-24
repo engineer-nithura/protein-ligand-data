@@ -1,0 +1,131 @@
+Mutation,"Mutant_
+PDB_ID","Wildtype_Protein_
+PDB_ID","Ligand_ID_
+in_PDB","Multiple_
+Binding_
+Sites","Impact_of_Mutation_
+on_Binding_Affinity",Fold_Change
+G48H,1A9M,1GNO,U0E,No,Decreased Affinity,-5.95
+V82F,1BWA,1BV9,XV6,No,Decreased Affinity,-22.72727273
+L22Y,1DLS,1U72,MTX,No,Decreased Affinity,-3205.882353
+Y101F,1E2L,1E2K,TMC,No,Decreased Affinity,-4.51754386
+V82D,1GNM,1GNO,U0E,No,Decreased Affinity,-28
+V82N,1GNN,1GNO,U0E,No,Decreased Affinity,-105
+R218H,1HK2,1HK1,T44,Yes,Increased Affinity,13.52941176
+R218P,1HK3,1HK1,T44,Yes,Increased Affinity,8.846153846
+R218H,1HK5,1HK4,T44,No,Decreased Affinity,-1.167346939
+"C59R/
+S108N",1J3J,3QGT,CP6,No,Decreased Affinity,-49
+"N51I/
+C59R/
+S108N/
+I164L",1J3K,1J3I,WRA,No,Decreased Affinity,-3.363636364
+K213E,1JQV,2DOR,ORO,No,Decreased Affinity,-4.034482759
+R57A,1JQX,2DOR,ORO,No,Decreased Affinity,-3.275862069
+P56A,1JRB,2DOR,ORO,No,Decreased Affinity,-50
+N67A,1JRC,2DOR,ORO,No,Decreased Affinity,-1.517241379
+F93A,1MGO,1HLD,PFB,No,Decreased Affinity,-17
+V292T,1N8K,1N92,NAJ,No,Decreased Affinity,-30
+N229C,1NJA,1NJE,DCM,No,Increased Affinity,600
+N229D,1NJC,1NJE,DCM,No,Increased Affinity,20
+W57L,1OBO,1FLV,FMN,No,Decreased Affinity,-25.84615385
+Y94F,1OBV,1FLV,FMN,No,Decreased Affinity,-4
+K136E,1OVD,2DOR,ORO,No,Increased Affinity,3.815789474
+L90M,1SDU,1SDT,MK1,No,Increased Affinity,6.279069767
+V82A,1SDV,1SDT,MK1,No,Decreased Affinity,-3.351851852
+Y187F,1SYI,1SYH,CPW,No,Decreased Affinity,-8.473282443
+S96P,1TPW,1TPH,PGH,No,Decreased Affinity,-14.2
+L22R,1U70,1U72,MTX,No,Decreased Affinity,-1344.117647
+W92A,1W6Y,1OH0,EQU,No,Decreased Affinity,-2.2
+S292Q,1X7W,1U5B,TDP,No,Decreased Affinity,-38.0625
+S292E,1X7X,1U5B,TDP,No,Decreased Affinity,-32.875
+S292N,1X7Y,1U5B,TDP,No,Decreased Affinity,-34
+S292D,1X7Z,1U5B,TDP,No,Decreased Affinity,-25.1875
+I219A,1YDK,1K3L,GTX,No,Decreased Affinity,-18.57142857
+Y408C,1YKL,3PCA,DHB,No,Decreased Affinity,-22.8
+Y408H,1YKP,3PCA,DHB,No,Decreased Affinity,-15.6
+Y120F,1YP6,1QY1,PRZ,No,Decreased Affinity,-6.633333333
+A328V,1ZOA,1JPZ,140,No,Increased Affinity,7.111111111
+D597N,1ZZQ,1P6J,DP9,No,Decreased Affinity,-200
+"D597N/
+M336V",1ZZR,1P6J,DP9,No,Decreased Affinity,-420
+N368D,1ZZS,1P6N,DP9,No,Increased Affinity,21.56862745
+"N368D/
+V106M",1ZZT,1P6N,DP9,No,Increased Affinity,100
+"D597N/
+M336V",1ZZU,1P6H,DP1,No,Decreased Affinity,-211
+R21L,2CAQ,2CA8,GSH,No,Decreased Affinity,-12.95454545
+Y10F,2F8F,2CA8,GSH,No,Increased Affinity,1.047619048
+V82A,2IDW,2IEN,17,No,Decreased Affinity,-1.3
+I84V,2IEO,2IEN,17,No,Decreased Affinity,-3.2
+"C298A/
+W219Y",2IPW,2IS7,2CL,No,Increased Affinity,4.4
+"C298A/
+W219Y",2ISF,2INE,PAC,No,Decreased Affinity,-3.75
+N199A,2OGY,2E7F,C2F,No,Decreased Affinity,-2.65
+K57A,2ONZ,2ONY,TMJ,No,Increased Affinity,161.5384615
+V47I,2PD9,1PWM,FID,No,Decreased Affinity,-1.275038386
+F121P,2PDC,2PZN,393,No,Decreased Affinity,-6.441865561
+L300P,2PDH,2PDG,47D,No,Decreased Affinity,-6.441865561
+L300A,2PDJ,2PZN,393,No,Decreased Affinity,-2.158524532
+L301M,2PDL,2FZD,TOL,No,Decreased Affinity,-2.752201634
+S302R,2PDN,2PDG,47D,No,Decreased Affinity,-109.6771995
+S302R,2PDP,2PZN,393,No,Decreased Affinity,-70.25173318
+C303D,2PDQ,2PDG,47D,No,Decreased Affinity,-57.37477475
+C303D,2PDU,2PZN,393,No,Decreased Affinity,-64.78621729
+C303D,2PDW,1PWM,FID,No,Decreased Affinity,-5.704926154
+"S302R/
+C303D",2PDY,1PWM,FID,No,Decreased Affinity,-24.51261165
+N88D,2PYM,2Q64,1UN,No,Decreased Affinity,-12.85714286
+A71V,2PYN,2Q64,1UN,No,Decreased Affinity,-5
+L90M,2Q63,2Q64,1UN,No,Decreased Affinity,-7.071428571
+D30N,2QCI,2Z4O,65,No,Decreased Affinity,-17.03703704
+I50V,2QD6,2Z4O,65,No,Decreased Affinity,-7.777777778
+V82A,2QD7,2Z4O,65,No,Decreased Affinity,-2.962962963
+I84V,2QD8,2Z4O,65,No,Decreased Affinity,-3.148148148
+"E88G/
+N92L",2YGE,1A4H,GDM,No,Decreased Affinity,-8.413284133
+"L89V/
+L93I/
+V136M",2YGF,1A4H,GDM,No,Decreased Affinity,-1.708487085
+"M372A/
+K316A",3AM5,3AM3,TCL,No,Decreased Affinity,-1.357142857
+G48V,3CYW,3TKW,17,No,Decreased Affinity,-29.31034483
+I54M,3D1Z,3TKW,17,No,Decreased Affinity,-2.75862069
+I54V,3D20,3TKW,17,No,Decreased Affinity,-8.620689655
+Y43F,3DGO,3DGL,ATP,No,Increased Affinity,1.388888889
+Q35K,3F8Y,3FS6,DH1,No,Increased Affinity,27.71084337
+"Q35S/
+N64S",3F8Z,3FS6,DH1,No,Increased Affinity,3.484848485
+"Q35K/
+N64F",3F91,3FS6,DH1,No,Increased Affinity,17.69230769
+F98Y,3FRA,3FRF,XCF,No,Decreased Affinity,-20
+F98Y,3FRB,3FRE,TOP,No,Decreased Affinity,-16.66666667
+F98Y,3FY8,3FYW,XCF,No,Decreased Affinity,-3.913043478
+F98Y,3FY9,3FYV,XCF,No,Decreased Affinity,-15.90909091
+D816H,3G0F,3G0E,B49,No,Decreased Affinity,-1.1
+L308V,3GUG,3C3U,C2U,No,Decreased Affinity,-13.22033898
+T113C,3LBO,1US0,LDT,No,Increased Affinity,13.07769009
+T113S,3LD5,1US0,LDT,No,Decreased Affinity,-5.361814661
+T113C,3LEP,2IKI,388,No,Decreased Affinity,-1.270209815
+T113A,3LQG,2IKI,388,No,Decreased Affinity,-3.71532999
+T113A,3LQL,1US0,LDT,No,Decreased Affinity,-7.55911261
+T113V,3LZ5,1US0,LDT,No,Decreased Affinity,-3.643408804
+N88S,3LZU,3LZS,17,No,Decreased Affinity,-7.981651376
+T113V,3M4H,2IKI,388,No,Decreased Affinity,-13.46925913
+A467G,3MOE,3DT7,SPV,No,Decreased Affinity,-1.923076923
+V32I,3NU4,3NU3,478,No,Decreased Affinity,-10
+I50V,3NU5,3NU3,478,No,Decreased Affinity,-30
+I54M,3NU6,3NU3,478,No,Decreased Affinity,-3.333333333
+I84V,3NU9,3NU3,478,No,Decreased Affinity,-6
+I54V,3NUJ,3NU3,478,No,Decreased Affinity,-2.733333333
+L90M,3NUO,3NU3,478,No,Decreased Affinity,-1.066666667
+"T90S/
+W108V/
+L110T/
+F29L/
+S52G/
+R53S",3RDO,3RY2,BTN,No,Decreased Affinity,-215.3846154
+S35K,3S3V,3N0H,TOP,Yes,Increased Affinity,1.056506849
+"A16V/
+S108T",3UM6,3UM8,1CY,No,Decreased Affinity,-948.75
